@@ -16,4 +16,6 @@ Following:
 
     https://supersimple.dev/exercises/youtube
    
-![](Screenshot.jpg)
+   
+Screenshot:
+    ![](Screenshot.jpg)
